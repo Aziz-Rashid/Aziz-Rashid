@@ -23,9 +23,9 @@ Before that I built a parcel-tracking platform end to end, legal-services and e-
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
 | **[Pulsar Dashboard](https://github.com/Aziz-Rashid/Pulsar-V2-MVP)** | Dashboard MVP with data grids, date filters and charts | Next.js, TypeScript, MUI, Redux Toolkit, Chart.js |
-| **[LLM Self-Engagement](https://github.com/Aziz-Rashid/LLM-self-engagement)** | Two AI chatbots hold a conversation from one user prompt | Next.js, OpenAI API |
 | **[ACR Logistics](https://github.com/Aziz-Rashid/ACR_Log_APP)** · [demo](https://acr-test.vercel.app) | Logistics app with role-based dashboards, maps and report export | Next.js, Firebase, Google Maps, ExcelJS |
 | **[ezyLegal](https://github.com/Aziz-Rashid/ezylegal-react-next-js)** | Legal-services platform: lawyer booking, validated forms, online payments, WordPress content | Next.js, React, Redux, React Hook Form |
+| **[LLM Self-Engagement](https://github.com/Aziz-Rashid/LLM-self-engagement)** | Two AI chatbots hold a conversation from one user prompt | Next.js, OpenAI API |
 | **[Beauty by Earth](https://github.com/Aziz-Rashid/BeautybyEarth)** | Full-stack site for a natural skincare brand | Next.js, Express, MongoDB, Passport |
 | **KodeGlobe** (client work) | Responsive React interfaces for agency client projects | React, JavaScript, HTML, CSS |
 
