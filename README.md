@@ -27,7 +27,7 @@ Before that I built a parcel-tracking platform end to end, legal-services and e-
 | **[ezyLegal](https://github.com/Aziz-Rashid/ezylegal-react-next-js)** | Legal-services platform: lawyer booking, validated forms, online payments, WordPress content | Next.js, React, Redux, React Hook Form |
 | **[LLM Self-Engagement](https://github.com/Aziz-Rashid/LLM-self-engagement)** | Two AI chatbots hold a conversation from one user prompt | Next.js, OpenAI API |
 | **[Beauty by Earth](https://github.com/Aziz-Rashid/BeautybyEarth)** | Full-stack site for a natural skincare brand | Next.js, Express, MongoDB, Passport |
-| **KodeGlobe** (client work) | Responsive React interfaces for agency client projects | React, JavaScript, HTML, CSS |
+| **[KodeGlobe](https://www.wearetenet.com/)** (now Tenet, client work) | Responsive React interfaces for agency client projects | React, JavaScript, HTML, CSS |
 
 Most of my production work is in private company repositories, so this profile shows a sample rather than everything.
 
