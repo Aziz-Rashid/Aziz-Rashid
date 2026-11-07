@@ -25,9 +25,9 @@ Before that I built a parcel-tracking platform end to end, legal-services and e-
 | **[Pulsar Dashboard](https://github.com/Aziz-Rashid/Pulsar-V2-MVP)** | Dashboard MVP with data grids, date filters and charts | Next.js, TypeScript, MUI, Redux Toolkit, Chart.js |
 | **[LLM Self-Engagement](https://github.com/Aziz-Rashid/LLM-self-engagement)** | Two AI chatbots hold a conversation from one user prompt | Next.js, OpenAI API |
 | **[ACR Logistics](https://github.com/Aziz-Rashid/ACR_Log_APP)** · [demo](https://acr-test.vercel.app) | Logistics app with role-based dashboards, maps and report export | Next.js, Firebase, Google Maps, ExcelJS |
-| **[Nexux](https://github.com/Aziz-Rashid/Nexux)** · [demo](https://nexux-coin.vercel.app) | Web3 site with wallet sign-in | Next.js, WalletConnect, Web3Auth, Moralis |
-| **[Zealthy](https://github.com/Aziz-Rashid/Zealthy)** · [demo](https://zealthy-gamma.vercel.app) | Frontend for a US telehealth website | Next.js, TypeScript, Material UI |
-| **[NY Times Articles](https://github.com/Aziz-Rashid/NY-TIME-ARTICLE-APP)** · [demo](https://ny-time-article-app.vercel.app) | Most-popular articles viewer with unit tests | React, TypeScript, Jest, Testing Library |
+| **[ezyLegal](https://github.com/Aziz-Rashid/ezylegal-react-next-js)** | Legal-services platform: lawyer booking, validated forms, online payments, WordPress content | Next.js, React, Redux, React Hook Form |
+| **[Beauty by Earth](https://github.com/Aziz-Rashid/BeautybyEarth)** | Full-stack site for a natural skincare brand | Next.js, Express, MongoDB, Passport |
+| **KodeGlobe** (client work) | Responsive React interfaces for agency client projects | React, JavaScript, HTML, CSS |
 
 Most of my production work is in private company repositories, so this profile shows a sample rather than everything.
 
